@@ -1,0 +1,111 @@
+{
+  "configVersion": 1,
+  "timestamp": 1763633163649,
+  "index": "/notes-app-live/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/notes-app-live/chunk-4WTUTALI.js",
+        "/notes-app-live/chunk-74LLULWK.js",
+        "/notes-app-live/chunk-A7V3V4Y2.js",
+        "/notes-app-live/chunk-AZYLTBPO.js",
+        "/notes-app-live/chunk-BXJDXHXU.js",
+        "/notes-app-live/chunk-CWUWQ4EX.js",
+        "/notes-app-live/chunk-ESAVHXRM.js",
+        "/notes-app-live/chunk-FCD34S5F.js",
+        "/notes-app-live/chunk-FMLZKYIE.js",
+        "/notes-app-live/chunk-LOCZZ25B.js",
+        "/notes-app-live/chunk-MFFKLJI2.js",
+        "/notes-app-live/chunk-MVTUDABA.js",
+        "/notes-app-live/chunk-OODGCCPB.js",
+        "/notes-app-live/chunk-SXLACWEP.js",
+        "/notes-app-live/favicon.ico",
+        "/notes-app-live/index.html",
+        "/notes-app-live/main-W4WPH7BK.js",
+        "/notes-app-live/manifest.webmanifest",
+        "/notes-app-live/polyfills-5CFQRCPP.js",
+        "/notes-app-live/styles-UPMKUX6T.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/notes-app-live/favicon.png",
+        "/notes-app-live/icon.svg",
+        "/notes-app-live/icons/icon-128x128.png",
+        "/notes-app-live/icons/icon-144x144.png",
+        "/notes-app-live/icons/icon-152x152.png",
+        "/notes-app-live/icons/icon-192x192.png",
+        "/notes-app-live/icons/icon-384x384.png",
+        "/notes-app-live/icons/icon-512x512.png",
+        "/notes-app-live/icons/icon-72x72.png",
+        "/notes-app-live/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/notes-app-live/chunk-4WTUTALI.js": "e83e28b3ba880d15fa306ea9eb5dbb5d8fe6f91e",
+    "/notes-app-live/chunk-74LLULWK.js": "c34f1c0a76df45404f1f99ed4661eb426cd4fdb7",
+    "/notes-app-live/chunk-A7V3V4Y2.js": "8fbd1aef6fcd5faad8f2ca3752a7c42d5f79e541",
+    "/notes-app-live/chunk-AZYLTBPO.js": "6639653b969e0dd9e525b99bf8c6a2dc3299c3c3",
+    "/notes-app-live/chunk-BXJDXHXU.js": "4399010dd52a96eb715db479117cb2d3c9ebc4a5",
+    "/notes-app-live/chunk-CWUWQ4EX.js": "1f8c21a9fc36aee24085e3f31997f8ce38d2bbe3",
+    "/notes-app-live/chunk-ESAVHXRM.js": "ff9c72d8c6db7dd20d1cc4a3f48eaa0bc83d8a70",
+    "/notes-app-live/chunk-FCD34S5F.js": "6988978f702019003cde08ff336888b5efaab6fb",
+    "/notes-app-live/chunk-FMLZKYIE.js": "d0e7b989a23c8c88afcb5a9c879a653efad3e8c9",
+    "/notes-app-live/chunk-LOCZZ25B.js": "9a84c40927dcc5f08c87d2485438831b3733df61",
+    "/notes-app-live/chunk-MFFKLJI2.js": "db6308fdb99d199f727e8f8286170105632ae4d7",
+    "/notes-app-live/chunk-MVTUDABA.js": "5afa41d22a6bc933d5f6c9868ee0897e8ebceb31",
+    "/notes-app-live/chunk-OODGCCPB.js": "e0cc4aa5d2a759be8de821a3e4ab3e1434f5c81d",
+    "/notes-app-live/chunk-SXLACWEP.js": "bc0fb575eecc5dfdb06fc990af0ac02ce6e303bd",
+    "/notes-app-live/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/notes-app-live/favicon.png": "e9c6a008d78f780bf7e1f69e5ef2b08a92ef0136",
+    "/notes-app-live/icon.svg": "46af95bdbaae52751f030520505d94893d9b02f2",
+    "/notes-app-live/icons/icon-128x128.png": "8211e481c1feab7c0b1e9c8f510a249b30fa92d3",
+    "/notes-app-live/icons/icon-144x144.png": "9f7ea4aa35d9039f6004fb27d434e6002392dee3",
+    "/notes-app-live/icons/icon-152x152.png": "cc4f8af8872821fb65c9f2029100aab7a9877bfe",
+    "/notes-app-live/icons/icon-192x192.png": "fa253fcb2649e97daed2365a85e0763e31b67c89",
+    "/notes-app-live/icons/icon-384x384.png": "c3669f85adcdb074d984f99ae35e83fea3831f35",
+    "/notes-app-live/icons/icon-512x512.png": "cf7512f48e1b8117636e7a15fede6e82e9a48d46",
+    "/notes-app-live/icons/icon-72x72.png": "309741582371e617485df1797be4ada52daedb42",
+    "/notes-app-live/icons/icon-96x96.png": "c64d8f1e46783e122a83b1938bc378a270e3767a",
+    "/notes-app-live/index.html": "50c955e1dd46106070a73dc03a5bd1e3b72ef00d",
+    "/notes-app-live/main-W4WPH7BK.js": "6555d297d5455c750b901fc28dcb0154033ba8cc",
+    "/notes-app-live/manifest.webmanifest": "7b3ed888930e9ea06f5d632b183c9e5761e3c4a5",
+    "/notes-app-live/polyfills-5CFQRCPP.js": "f2241e9a25858f895ce299d15f6f22e849e2fd72",
+    "/notes-app-live/styles-UPMKUX6T.css": "cddfa6563892eaa14e69144f2e152530d719b815"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
