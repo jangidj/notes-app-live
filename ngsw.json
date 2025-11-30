@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1764510736922,
+  "timestamp": 1764511048585,
   "index": "/notes-app-live/index.html",
   "assetGroups": [
     {
@@ -11,10 +11,8 @@
         "ignoreVary": true
       },
       "urls": [
-        "/notes-app-live/chunk-2YCCVAJI.js",
         "/notes-app-live/chunk-BJC6L7TQ.js",
         "/notes-app-live/chunk-BV3XB72V.js",
-        "/notes-app-live/chunk-GZOU2BV7.js",
         "/notes-app-live/chunk-HVD5NXG4.js",
         "/notes-app-live/chunk-JZIF2DHL.js",
         "/notes-app-live/chunk-KIVA76ZE.js",
@@ -26,10 +24,12 @@
         "/notes-app-live/chunk-TGQLKVQO.js",
         "/notes-app-live/chunk-UPK55HKA.js",
         "/notes-app-live/chunk-VRNFLIWA.js",
+        "/notes-app-live/chunk-VTOMR6LF.js",
         "/notes-app-live/chunk-YHFVID6G.js",
+        "/notes-app-live/chunk-YIKRPSUE.js",
         "/notes-app-live/favicon.ico",
         "/notes-app-live/index.html",
-        "/notes-app-live/main-ZLIHR3JO.js",
+        "/notes-app-live/main-ZOUBN7SR.js",
         "/notes-app-live/manifest.webmanifest",
         "/notes-app-live/polyfills-5CFQRCPP.js",
         "/notes-app-live/styles-TX4C7ZK6.css"
@@ -60,10 +60,8 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/notes-app-live/chunk-2YCCVAJI.js": "6f6505a9bb211314f26ce47bd6089433dfdd5542",
     "/notes-app-live/chunk-BJC6L7TQ.js": "50b6e93c573a91cddd4aa2de4736ea09b56af0cd",
     "/notes-app-live/chunk-BV3XB72V.js": "27526980f9e9620d135dd2053ddb6a0dbc39a5d5",
-    "/notes-app-live/chunk-GZOU2BV7.js": "f3c9a98edac9267dd1395beff5c3d6752b0dabac",
     "/notes-app-live/chunk-HVD5NXG4.js": "fb220d20783c2b146b9cef61660eae71d37836c1",
     "/notes-app-live/chunk-JZIF2DHL.js": "a67065f3463513749fde5cb445b7b91874a78458",
     "/notes-app-live/chunk-KIVA76ZE.js": "ad70d201457c245165eb495b364281b1108fd54e",
@@ -75,7 +73,9 @@
     "/notes-app-live/chunk-TGQLKVQO.js": "030ed68b85ba407ffc16c471864e12c1cda72de0",
     "/notes-app-live/chunk-UPK55HKA.js": "98c245d1a509b4160036d7086a05f8a022b9d08d",
     "/notes-app-live/chunk-VRNFLIWA.js": "b1ac9c1b3534c94e5f9bb45785a85dc74c962ab2",
+    "/notes-app-live/chunk-VTOMR6LF.js": "9c923912f602e60c3fd3f197c0af5897502b40fb",
     "/notes-app-live/chunk-YHFVID6G.js": "9dfddbbb91efc211178aaed40d83434e7a8e3ba3",
+    "/notes-app-live/chunk-YIKRPSUE.js": "6e5a3ad985906c2ef64e780d16985da3e7dad1ce",
     "/notes-app-live/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
     "/notes-app-live/favicon.png": "e9c6a008d78f780bf7e1f69e5ef2b08a92ef0136",
     "/notes-app-live/icon.svg": "46af95bdbaae52751f030520505d94893d9b02f2",
@@ -87,8 +87,8 @@
     "/notes-app-live/icons/icon-512x512.png": "cf7512f48e1b8117636e7a15fede6e82e9a48d46",
     "/notes-app-live/icons/icon-72x72.png": "309741582371e617485df1797be4ada52daedb42",
     "/notes-app-live/icons/icon-96x96.png": "c64d8f1e46783e122a83b1938bc378a270e3767a",
-    "/notes-app-live/index.html": "dbaad751b1c12e4d7655b6401b74738690ac0b57",
-    "/notes-app-live/main-ZLIHR3JO.js": "e9c176c20e3911cabae594cf8bf17ac053d0d988",
+    "/notes-app-live/index.html": "50bce869415e0127502df7535e10ec0ed1176770",
+    "/notes-app-live/main-ZOUBN7SR.js": "29e02f9ff7d9af27f32c6b972b42d193d4f70ae5",
     "/notes-app-live/manifest.webmanifest": "7b3ed888930e9ea06f5d632b183c9e5761e3c4a5",
     "/notes-app-live/polyfills-5CFQRCPP.js": "f2241e9a25858f895ce299d15f6f22e849e2fd72",
     "/notes-app-live/styles-TX4C7ZK6.css": "2e7492d6b22014a178020e079e73cd3941c84bc0"
